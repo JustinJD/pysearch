@@ -1,7 +1,7 @@
 from distutils.core import setup
 import py2exe
 import os
-setup(console=["pySearch2.py"])
+setup(console=["pySearch.py"])
 """
 os.system('python MySetup.py py2exe')
 """
